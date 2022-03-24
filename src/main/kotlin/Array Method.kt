@@ -1,4 +1,4 @@
-fun main(args: Array<String>) {
+fun main() {
 
     //Penggunaan short
     val simpsonsA = arrayOf("Homer", "Marge", "Bart", "Lisa", "Meggie") //deskripsi
